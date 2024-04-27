@@ -1,4 +1,4 @@
-# Financial Question Answering System
+# Financial Bot RAG Pipeline
 
 Welcome to the Financial Question Answering System project! This project aims to enhance a language model's ability to answer financial queries by leveraging context from renowned financial books and implementing advanced techniques.
 
