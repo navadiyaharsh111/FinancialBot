@@ -33,3 +33,4 @@ Large language models (LLMs) have shown remarkable capabilities in understanding
 Enhancing a language model for financial question answering requires a combination of context enrichment, advanced retrieval techniques, and hyperparameter tuning. By leveraging these strategies, we have developed a powerful tool for extracting insights and answering queries in the financial domain.
 
 ---
+https://medium.com/@harshnavadiya/unlocking-financial-insights-contextualized-responses-with-rag-pipeline-88ecce8ad4da
